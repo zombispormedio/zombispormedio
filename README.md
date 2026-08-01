@@ -7,7 +7,7 @@ Software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/1975
 ### What I Build
 
 - Platform infrastructure with reliability at scale
-- Practical product experiences 
+- Product experiences with practical perspective
 - Dev tooling and workflows that reduce cognitive load
 
 ### Core Stack
