@@ -10,7 +10,7 @@ Software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/1975
 - Product experiences with fast feedback loops
 - Dev tooling and workflows that reduce cognitive load
 
-### Core Stack
+### Stack
 
 <p>
 	<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
