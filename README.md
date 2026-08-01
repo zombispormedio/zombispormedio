@@ -1,10 +1,8 @@
 <h1 align="center">Xavier Serrano</h1>
-
 <p align="center">
 Senior engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Elche, Spain.
 </p>
 
----
 
 ### What I Build
 
