@@ -2,23 +2,7 @@
 <h3 align="center">Proactive, Product & Platform.</h3>
 
 <p align="center">
-	<a href="https://xavierserrano.dev/" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-xavierserrano.dev-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-	</a>
-	<a href="https://github.com/zombispormedio" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-zombispormedio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-	</a>
-	<a href="https://www.linkedin.com/in/xsedev/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-xsedev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="https://x.com/zombispormedio" target="_blank">
-		<img src="https://img.shields.io/badge/X-@zombispormedio-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-	</a>
-</p>
-
-
-<p align="center">
-Senior engineer focused on high-availability platforms, practical user experiences, and developer tooling that ships.
+Senior engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Elche, Spain focused on high-availability platforms, practical user experiences, and developer tooling that ships.
 </p>
 
 ---
@@ -77,9 +61,19 @@ I explore hardware, robotics, books, travel, cooking, and fitness to keep me gro
 
 ### Find Me
 
-- Website: https://xavierserrano.dev/
-- GitHub: https://github.com/zombispormedio
-- LinkedIn: https://www.linkedin.com/in/xsedev/
-- X: https://x.com/zombispormedio
+<p>
+<a href="https://xavierserrano.dev/" target="_blank">
+		<img src="https://img.shields.io/badge/Web-xavierserrano.dev-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+	</a>
+	<a href="https://github.com/zombispormedio" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-zombispormedio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+	<a href="https://www.linkedin.com/in/xsedev/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-xsedev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://x.com/zombispormedio" target="_blank">
+		<img src="https://img.shields.io/badge/X-@zombispormedio-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+	</a>
+</p>
 
 <p align="center"><i>Built for curiosity, reliability, and meaningful impact.</i></p>
