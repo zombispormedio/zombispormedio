@@ -2,7 +2,7 @@
 <h3 align="center">Proactive, Product & Platform.</h3>
 
 <p align="center">
-Senior engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Elche, Spain focused on high-availability platforms, practical user experiences, and developer tooling that ships.
+Senior engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Elche, Spain <br/> focused on high-availability platforms, practical user experiences, and developer tooling that ships.
 </p>
 
 ---
