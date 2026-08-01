@@ -53,7 +53,7 @@ Software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/1975
 
 ### Beyond Code
 
-I explore hardware, robotics, books, travel, cooking, and fitness to keep me grounded in the real world.
+I explore hardware, robotics, books, manga, travel, cooking, and fitness to keep me grounded in the real world.
 
 
 ### Find Me
